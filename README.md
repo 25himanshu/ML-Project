@@ -19,6 +19,7 @@ Inaccurate rainfall predictions can impact farming, urban planning, and disaster
 
 ## 📌 Technologies Used
 - Python
+- Machine Learning
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
